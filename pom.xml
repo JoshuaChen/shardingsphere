@@ -71,7 +71,7 @@
         <error_prone_annotations.version>2.22.0</error_prone_annotations.version>
         <j2objc-annotations.version>1.3</j2objc-annotations.version>
         
-        <commons-lang3.version>3.15.0</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-codec.version>1.16.0</commons-codec.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <caffeine.version>2.9.3</caffeine.version>
@@ -100,10 +100,10 @@
         <seata.version>2.2.0</seata.version>
         
         <netty.version>4.1.112.Final</netty.version>
-        <bouncycastle.version>1.78.1</bouncycastle.version>
+        <bouncycastle.version>1.79</bouncycastle.version>
         
         <curator.version>5.7.0</curator.version>
-        <zookeeper.version>3.9.2</zookeeper.version>
+        <zookeeper.version>3.9.4</zookeeper.version>
         <audience-annotations.version>0.12.0</audience-annotations.version>
         <jetcd.version>0.7.7</jetcd.version>
         <vertx.version>4.5.1</vertx.version>
